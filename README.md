@@ -1,7 +1,6 @@
-![Welcome Banner](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Thrishala;HR+pro+turned+Code+Adventurer;Let's+build+and+play+together!&font=Fira%20Code&center=true&width=600&height=50)
+![Welcome Banner](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Thrishala;HR+turned+Code+Adventurer;Let's+build+and+play+together!&font=Fira%20Code&center=true&width=600&height=50)
 
-👋 Hi, I’m Thrishala!
-💼 Strategic HR | 👩‍💻 Developer | 🎲 Game creator | 📈 Data enthusiast
+## 💼 Strategic HR | 👩‍💻 Developer | 🎲 Game creator | 📈 Data enthusiast
 
 Curiosity brought me from people analytics to programming!  
 Now, I code web apps, mini-games, and experiment with anything JavaScript, Node.js, or APIs.  
@@ -18,7 +17,8 @@ Currently learning at Founders and Coders bootcamp and always up for a challenge
 
 ## 🎮 Mini Game: “Turtle Crossing”
 
-Ready for a fun break? Challenge yourself to reach new levels in my Turtle Crossing game! Mobile friendly! 
+Ready for a fun break? Challenge yourself to reach new levels in my Turtle Crossing game! Mobile friendly!
+
 Try it here: [Turtle Crossing Game](https://tb0515.github.io/Turtle-Crossing-Game/)
 
 ---
@@ -48,5 +48,7 @@ Have a puzzle or sudoku challenge? Submit it here using my custom issue template
 - [LinkedIn](https://www.linkedin.com/in/thrishala-baskaran/)
 - Drop a GitHub issue or discussion to say hi!
 
-![Fun Footer](https://raw.githubusercontent.com/kautukkundan/Awesome-Profile-README-templates/master/images/header-1.png)
+✨ Thanks for stopping by! May your code be bug-free and your coffee strong ☕🚀  
+If you enjoyed your visit, don’t forget to leave a ⭐ and say hi! 😄👋
 
+![Fun Footer](./footer.svg)
