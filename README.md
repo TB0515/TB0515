@@ -1,4 +1,7 @@
-![Welcome Banner](https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Thrishala;HR+turned+Code+Adventurer;Let's+build+and+play+together!&font=Fira%20Code&center=true&width=600&height=50)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Thrishala;HR+turned+Code+Adventurer;Let's+build+and+play+together!&font=Fira%20Code&center=true&width=600&height=50" alt="Welcome Banner"/>
+</div>
+
 
 ## 💼 Strategic HR | 👩‍💻 Developer | 🎲 Game creator | 📈 Data enthusiast
 
@@ -10,8 +13,21 @@ Currently learning at Founders and Coders bootcamp and always up for a challenge
 
 ## 🚀 Quick Stats
 
-[![Thrishala's GitHub stats](https://github-readme-stats.vercel.app/api?username=TB0515&show_icons=true&theme=radical)] 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TB0515&layout=compact&theme=radical)]
+<p align="center">
+  <a href="https://github.com/TB0515">
+    <img src="https://github-readme-stats.vercel.app/api?username=TB0515&show_icons=true&theme=radical" alt="Thrishala's GitHub Stats"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TB0515">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TB0515&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://www.codewars.com/users/TB0515">
+    <img src="https://www.codewars.com/users/TB0515/badges/large" alt="Codewars Badge"/>
+  </a>
+</div>
 
 ---
 
@@ -47,6 +63,7 @@ Have a puzzle or sudoku challenge? Submit it here using my custom issue template
 
 - [LinkedIn](https://www.linkedin.com/in/thrishala-baskaran/)
 - Drop a GitHub issue or discussion to say hi!
+
 
 ✨ Thanks for stopping by! Keep coding and  stay curious!
 If you enjoyed your visit, don’t forget to leave a ⭐
