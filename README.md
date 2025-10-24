@@ -31,11 +31,9 @@ Currently learning at Founders and Coders bootcamp and always up for a challenge
 
 ---
 
-## 🎮 Mini Game: “Turtle Crossing”
-
-Ready for a fun break? Challenge yourself to reach new levels in my Turtle Crossing game! Mobile friendly!
-
-Try it here: [Turtle Crossing Game](https://tb0515.github.io/Turtle-Crossing-Game/)
+<a href="https://tb0515.github.io/Turtle-Crossing-Game/">
+  <img src="./turtle-crossing-demo.gif" alt="Turtle Crossing Game" width="100%"/>
+</a>
 
 ---
 
