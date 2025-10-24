@@ -48,7 +48,5 @@ Have a puzzle or sudoku challenge? Submit it here using my custom issue template
 - [LinkedIn](https://www.linkedin.com/in/thrishala-baskaran/)
 - Drop a GitHub issue or discussion to say hi!
 
-✨ Thanks for stopping by! May your code be bug-free and your coffee strong ☕🚀  
-If you enjoyed your visit, don’t forget to leave a ⭐ and say hi! 😄👋
-
-![Fun Footer](./footer.svg)
+✨ Thanks for stopping by! Keep coding and  stay curious!
+If you enjoyed your visit, don’t forget to leave a ⭐
