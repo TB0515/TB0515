@@ -32,8 +32,7 @@ Currently learning at Founders and Coders bootcamp and always up for a challenge
 ---
 
 <a href="https://tb0515.github.io/Turtle-Crossing-Game/">
-   <video loop src="./turtle_crossing_giphy.mp4"> </video>
-  <img src="./turtle-crossing.gif" alt="Turtle Crossing Game" width="100%"/>
+  <img src="./turtle-crossing.gif" alt="Turtle Crossing Game" width=100% />
 </a>
 
 ---
