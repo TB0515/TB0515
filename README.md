@@ -28,7 +28,7 @@ Currently learning at Founders and Coders bootcamp and always up for a challenge
     <img src="https://www.codewars.com/users/TB0515/badges/large" alt="Codewars Badge"/>
   </a>
 </div>
-
+</br>
 <a href="https://tb0515.github.io/Turtle-Crossing-Game/">
   <img src="./turtle-crossing.gif" alt="Turtle Crossing Game" width=100% />
 </a>
