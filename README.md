@@ -29,13 +29,10 @@ Currently learning at Founders and Coders bootcamp and always up for a challenge
   </a>
 </div>
 
----
-
 <a href="https://tb0515.github.io/Turtle-Crossing-Game/">
   <img src="./turtle-crossing.gif" alt="Turtle Crossing Game" width=100% />
 </a>
 
----
 
 ## 😄 About Me
 
